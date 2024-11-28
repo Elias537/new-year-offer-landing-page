@@ -11,6 +11,11 @@
     font-style: normal;
 }
 
+/* shared styles */
+.bg {
+    max-width: 1120px;
+}
+
 /* banner styles */
 
 .header {
@@ -67,4 +72,47 @@
 
 .photo {
     margin-top: 48px;
+}
+
+/* welcome section styles */
+.group-70 {
+    display: flex;
+    gap: 94px;
+    text-align: left;
+    /* justify-content: center; */
+}
+
+.victor {
+    background-image: url(../images/Vectorrr.png);
+    /* background-position: 1120px; */
+    background-size: 100% 100%;
+    width: 1120px;
+    /* justify-content: center; */
+    margin: 220px 100px 120px 100px;
+}
+
+.welcome {
+    margin-top: 126px;
+    margin-left: 50px;
+}
+
+.welcome-pic {
+    position: end;
+    /* width: 800; */
+}
+
+.welcome-slogan {
+    font-size: 52px;
+    color: white;
+}
+
+.welcome-description {
+    font-size: 18px;
+    color: white;
+}
+
+.btn-join {
+    font-size: 20px;
+    color: black;
+    border: none;
 }
