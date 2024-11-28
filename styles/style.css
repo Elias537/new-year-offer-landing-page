@@ -16,6 +16,19 @@
     max-width: 1120px;
 }
 
+.text-primary {
+    color: #e96565;
+}
+
+.secondary-bg {
+    background-color: #FFF8F3;
+    /* opacity: 100%; */
+    margin: 0px 120px 120px 120px;
+    border-radius: 16px;
+    height: 400px;
+
+}
+
 /* banner styles */
 
 .header {
@@ -104,15 +117,39 @@
 .welcome-slogan {
     font-size: 52px;
     color: white;
+    /* margin-top: 500px; */
 }
 
 .welcome-description {
     font-size: 18px;
     color: white;
+    /* margin-top: 200px; */
 }
 
 .btn-join {
     font-size: 20px;
     color: black;
     border: none;
+}
+
+/* place section styles */
+.place {
+    font-size: 32;
+    font-weight: 600;
+    /* text-align: center; */
+    /* max-width: 1020px; */
+    /* justify-content: center; */
+    /* margin-top: 100px; */
+    /* align-items: center; */
+    /* margin: 220px 0px 20px 450px; */
+    padding: 100px 385px 214px 400px;
+
+}
+
+.btn-primary {
+    background-color: #FF0000;
+    color: #FFF8F3;
+    padding: 16px 32px 16px 32px;
+    border: none;
+    border-radius: 6px;
 }
