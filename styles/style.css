@@ -2,7 +2,7 @@
     font-family: "Merriweather", serif;
     font-weight: 400;
     font-style: normal;
-  }
+}
 
 .inter-normal {
     font-family: "Inter", sans-serif;
@@ -11,23 +11,60 @@
     font-style: normal;
 }
 
-.banner-content{
-    max-width: 132px;
+/* banner styles */
+
+.header {
+    background-image: url(../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    margin: 50px 140px 0px 140px;
+    height: 400px;
+    width: 1320;
 }
 
-body section div{
-    max-width: 632px;
-    margin: 127px 384px 0px 384px;
-    
-}
-.banner-title{
+.banner-title {
     font-size: 32px;
     text-align: center;
-   margin-bottom: 10px;
+    margin: 60px 244px 0px 244px;
+    color: white;
+    justify-content: center;
 }
 
-.banner-sub-title{
-    font-size: 72px;
+.banner-sub-title {
+    font-size: 52px;
     text-align: center;
-   margin-top: 10px;
+    margin-top: 10px;
+    /* width: 600px; */
+    color: white;
+    margin: 10px 244px 0px 244px;
+}
+
+/* block 65 styles */
+.sixty-five {
+    max-width: 800px;
+    max-height: 600px;
+    margin: 60px 290px 0px 290px;
+    text-align: center;
+}
+
+.off {
+    font-size: 88px;
+    font-weight: 800;
+    color: #FF0000;
+}
+
+.offer-title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #FF0000;
+}
+
+.offer-sub-title {
+    font-size: 48px;
+    font-weight: 600
+}
+
+.photo {
+    margin-top: 48px;
 }
