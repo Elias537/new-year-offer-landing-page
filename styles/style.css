@@ -153,3 +153,53 @@
     border: none;
     border-radius: 6px;
 }
+
+/* comming soon section starts  */
+.comming-soon {
+    display: flex;
+    max-width: 1120px;
+    min-height: 450px;
+    margin: 120px 140px 120px 140px;
+    align-items: center;
+    gap: 80px;
+}
+
+.clm-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #FF0000;
+}
+
+.clm-sub-title {
+    font-size: 38px;
+    font-weight: 800;
+    color: #070211;
+}
+
+.clm-description {
+    font-size: 16px;
+    font-weight: 400;
+    color: #070211;
+    opacity: 60%;
+}
+
+.clmn-title {
+    font-size: 38px;
+    font-weight: 800;
+    color: #FF0000;
+}
+
+.column-two {
+    /* max-width: 363px;
+    max-height: 363px; */
+    border: 10px solid #FF0000;
+    border-width: 5px;
+    border-radius: 50px;
+    /* border-style: circle(50%); */
+    padding: 5px;
+    shape-margin: ;
+}
+
+.clmn-icon {
+    margin-top: 40px;
+}
