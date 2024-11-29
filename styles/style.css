@@ -203,3 +203,58 @@
 .clmn-icon {
     margin-top: 40px;
 }
+
+/* section fifty starts  */
+.sec-fifty-banner {
+    max-width: 950px;
+    text-align: center;
+    justify-content: center;
+    margin: 120px 266px 50px 266px;
+}
+
+.fifty {
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: 0 120px 50px 120px;
+    border-radius: 16px;
+    max-width: 1120px;
+}
+
+.seventy-five {
+    max-width: 600px;
+    opacity: 90%;
+}
+
+.sec-fifty-title {
+    font-size: 20px;
+}
+
+.holiday {
+    font-size: 55px;
+    font-weight: 700;
+    color: #FF0000;
+}
+
+.sec-fifty-sub-title {
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.sec-fifty-description {
+    font-size: 16px;
+    color: #070211;
+    opacity: 60%;
+}
+
+.forty-four {
+    position: absolute;
+    /* margin-bottom: 50px; */
+}
+
+.title-img {
+    justify-content: center;
+}
+
+/* section fifty ended  */
+
