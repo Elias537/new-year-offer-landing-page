@@ -258,3 +258,33 @@
 
 /* section fifty ended  */
 
+/* portfolio styles */
+.p-title {
+    font-size: 20px;
+    color: #FF0000;
+    font-weight: 600;
+}
+
+.p-sub-title {
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.p-description {
+    font-size: 18px;
+    color: #070211;
+    opacity: 60%;
+}
+
+.portfolio-text {
+    text-align: left;
+    margin-left: 140px;
+    width: 500px;
+}
+
+.portfolio-photo {
+    display: flex;
+    position: 50% 50%;
+    margin: 0px 0px 0px 00px;
+    gap: 12px;
+}
