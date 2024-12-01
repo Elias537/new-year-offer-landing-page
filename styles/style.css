@@ -288,3 +288,65 @@
     margin: 0px 0px 0px 00px;
     gap: 12px;
 }
+
+/* section newsletter styles */
+
+.news-letter {
+    background-color: #fff8f3;
+    /* opacity: 50%; */
+    margin: 120px 120px 120px 120px;
+    border-radius: 16px;
+    height: 800px;
+}
+
+
+.letters {
+    max-width: 750px;
+    max-height: 350px;
+    text-align: center;
+    margin: 0px 320px 80px 320px;
+    justify-content: center;
+}
+
+.letter {
+    /* text-align: center;
+    justify-content: center; */
+}
+
+.l-title {
+    font-size: 38px;
+}
+
+.l-description {
+    font-size: 18px;
+}
+
+.subscribes {
+    /* min-height: 100px; */
+    /* width: 600px; */
+    /* margin: 0 350px 0 350px; */
+}
+
+label {
+    position: relative;
+    align-items: center;
+
+    justify-content: center;
+}
+
+input {
+    border: none;
+    padding: 15px;
+    width: 400px;
+}
+
+button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border: none;
+    padding: 20px;
+    background-color: aqua;
+    color: #FF0000;
+}
