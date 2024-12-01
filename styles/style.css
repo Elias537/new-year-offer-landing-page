@@ -350,3 +350,39 @@ button {
     background-color: aqua;
     color: #FF0000;
 }
+
+/* footer styles */
+
+footer {
+    background-color: #070211;
+    color: #f4f4f7;
+    width: 1320px;
+    height: 610px;
+    justify-content: center;
+    background-position: 100% 100%;
+
+}
+
+.f-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px 0 100px;
+}
+
+.contact {
+    display: flex;
+}
+
+.logo-icons {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin-left: 560px;
+
+}
+
+.f-f {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px 0 100px;
+}
