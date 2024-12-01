@@ -97,10 +97,10 @@
 
 .victor {
     background-image: url(../images/Vectorrr.png);
-    /* background-position: 1120px; */
+    background-position: 1120px;
     background-size: 100% 100%;
     width: 1120px;
-    /* justify-content: center; */
+    justify-content: center;
     margin: 220px 100px 120px 100px;
 }
 
@@ -111,7 +111,7 @@
 
 .welcome-pic {
     position: end;
-    /* width: 800; */
+    width: 800;
 }
 
 .welcome-slogan {
@@ -127,20 +127,22 @@
 }
 
 .btn-join {
+    position: relative;
     font-size: 20px;
     color: black;
     border: none;
+    background: none;
 }
 
 /* place section styles */
 .place {
     font-size: 32;
     font-weight: 600;
-    /* text-align: center; */
-    /* max-width: 1020px; */
-    /* justify-content: center; */
-    /* margin-top: 100px; */
-    /* align-items: center; */
+    text-align: center;
+    max-width: 1020px;
+    justify-content: center;
+    margin-top: 100px;
+    align-items: center;
     /* margin: 220px 0px 20px 450px; */
     padding: 100px 385px 214px 400px;
 
